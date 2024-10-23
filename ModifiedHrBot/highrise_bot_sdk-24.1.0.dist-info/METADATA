@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: highrise-bot-sdk
+Version: 24.1.0
+Requires-Dist: aiohttp
+Requires-Dist: httpx
+Requires-Dist: attrs
+Requires-Dist: click
+Requires-Dist: quattro
+Requires-Dist: pendulum
+Requires-Dist: cattrs
+

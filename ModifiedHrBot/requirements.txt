@@ -1,0 +1,9 @@
+-e .
+httpx
+setuptools
+aiohttp
+attrs
+click
+quattro
+pendulum
+cattrs
